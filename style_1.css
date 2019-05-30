@@ -1,0 +1,86 @@
+*{
+	box-sizing: border-box;
+}
+.merri-weather-font{
+	font-family: 'Merriweather', serif;
+
+}
+.lato-font{
+	font-family: 'Lato', sans-serif;
+}
+
+.header1{
+	margin-top: 20px;
+	font-family: 'Merriweather', serif;
+	float:left; 
+	margin-left: 1vw; 
+	overflow-wrap: normal;
+
+
+	font-size: 2vw;
+
+	
+
+	color: #ffffff;	
+	
+}
+.header2{
+	margin-top: 0px;
+	font-family: 'Merriweather', serif;
+	float:left;
+	margin-left: 12.5vw;
+	padding-left: 13vw;
+	overflow-wrap: normal;
+
+
+
+	font-size: 1.25vw;
+	color: #ffffff;
+}
+
+.headings{
+	margin-left: 0.2rem;
+	margin-top: 4vh;
+	margin-bottom: 4vh;
+	font-family: 'Merriweather', serif;
+	font-weight: bold; font-size: 2em;
+	color: #0d47a1;
+}		
+
+.nav-item{
+	
+	margin-left:1em; 
+	margin-right: 1em;
+}
+
+
+
+.active{
+
+	color: #4285F4 !important;
+	border-color: #333333;
+	border-radius: 0.3em;
+}
+.dropdown-item.active{
+	background-color: #ffffff;
+	color: #4285F4;
+	border-radius: 0.3em;
+}
+header a:hover{
+	
+	background-color: #e0e0e0 !important;
+	opacity: 0.9;
+	border-radius: 0.3em;
+
+}
+
+.dropdown:hover .dropdown-menu{
+	display: block;
+}
+
+th{
+	font-weight: bold !important;
+}
+
+
+
